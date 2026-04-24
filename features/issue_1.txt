@@ -1,0 +1,2 @@
+accepted live sandbox issue 1
+non-empty pushed diff for issue 1

@@ -1,1 +1,3 @@
 IMPLEMENTED_ISSUES: list[int] = []
+
+IMPLEMENTED_ISSUES.append(1)
